@@ -200,19 +200,25 @@ export default function App() {
   return (
     <main className="min-h-screen bg-spotlight px-4 py-6 text-white">
       <div className="mx-auto flex min-h-[calc(100vh-3rem)] w-full max-w-md flex-col justify-center">
-        <section className="cinema-frame relative overflow-hidden rounded-[2rem] border border-gold/20 bg-gradient-to-b from-velvet/95 via-black to-black p-5 shadow-glow">
+        <section className="cinema-frame relative overflow-hidden rounded-[2rem] border border-gold/20 bg-gradient-to-b from-velvet/95 via-black to-black p-5 pt-24 shadow-glow">
           <div className="relative z-10">
-            <div className="mb-6 flex items-center justify-between gap-3">
+            <div className="pointer-events-none absolute left-0 top-0 z-20 p-5">
+              <div className="relative flex items-center justify-center rounded-[1.5rem] bg-amber/10 px-4 py-3 backdrop-blur-sm">
+                <div className="absolute inset-2 -z-10 rounded-[1.25rem] bg-amber/20 blur-xl" />
+                <img
+                  src="/logo-silhouette.png"
+                  alt="Kollywood Imposter logo"
+                  className="relative h-16 w-auto drop-shadow-[0_0_10px_rgba(245,196,81,0.75)] drop-shadow-[0_0_24px_rgba(255,191,0,0.45)]"
+                />
+              </div>
+            </div>
+
+            <div className="mb-6 flex items-center justify-start gap-3">
               <div>
                 <p className="text-xs uppercase tracking-[0.5em] text-amber/60">Pass-and-Play</p>
                 <h1 className="mt-2 text-3xl font-black uppercase tracking-[0.08em] text-amber">
                   Kollywood Imposter
                 </h1>
-              </div>
-              <div className="rounded-full border border-gold/25 bg-gold/10 px-3 py-2 text-right text-xs text-amber/80">
-                One phone
-                <br />
-                3-15 players
               </div>
             </div>
 
