@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color: #fff7dd;
+  background: #090909;
+  font-family: "Trebuchet MS", "Segoe UI", sans-serif;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  background-color: #090909;
+  background-image:
+    radial-gradient(circle at top, rgba(245, 196, 81, 0.15), transparent 35%),
+    linear-gradient(180deg, #130f09 0%, #090909 55%, #050505 100%);
+}
+
+button,
+input,
+select {
+  font: inherit;
+}
+
+.cinema-frame {
+  position: relative;
+  overflow: hidden;
+}
+
+.cinema-frame::before,
+.cinema-frame::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: 10px;
+  background-image: radial-gradient(circle, rgba(9, 9, 9, 0.95) 36%, transparent 38%);
+  background-size: 28px 10px;
+  z-index: 0;
+}
+
+.cinema-frame::before {
+  top: 0;
+}
+
+.cinema-frame::after {
+  bottom: 0;
+}
