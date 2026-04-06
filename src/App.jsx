@@ -200,7 +200,7 @@ export default function App() {
   return (
     <main className="min-h-screen bg-spotlight px-4 py-6 text-white">
       <div className="mx-auto flex min-h-[calc(100vh-3rem)] w-full max-w-md flex-col justify-center">
-        <section className="cinema-frame relative overflow-hidden rounded-[2rem] border border-gold/20 bg-gradient-to-b from-velvet/95 via-black to-black p-5 shadow-glow">
+        <section className="cinema-frame relative overflow-hidden rounded-[2rem] border border-gold/20 bg-gradient-to-b from-velvet/95 via-black to-black p-5 pt-8 shadow-glow">
           <div className="relative z-10">
             <div className="mb-6 flex items-center justify-between gap-3">
               <div className="ticket-title relative min-w-0 flex-1 rounded-full border border-dashed border-amber-500/50 bg-black/40 px-5 py-4 backdrop-blur-sm">
@@ -211,12 +211,11 @@ export default function App() {
                   Kollywood Imposter
                 </h1>
               </div>
-              <div className="relative flex shrink-0 items-center justify-center rounded-[1.5rem] bg-amber/10 px-4 py-3 backdrop-blur-sm">
-                <div className="absolute inset-2 rounded-[1.25rem] bg-amber/20 blur-xl" />
+              <div className="relative flex shrink-0 items-center justify-center px-2 py-1">
                 <img
                   src="/logo-silhouette.png"
                   alt="Kollywood Imposter logo"
-                  className="relative h-16 w-auto drop-shadow-[0_0_10px_rgba(245,196,81,0.75)] drop-shadow-[0_0_24px_rgba(255,191,0,0.45)]"
+                  className="relative h-24 w-24 object-contain"
                 />
               </div>
             </div>
