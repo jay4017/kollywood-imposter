@@ -198,25 +198,25 @@ export default function App() {
   const imposterOptions = createRange(maxImposters);
 
   return (
-    <main className="min-h-screen bg-spotlight px-4 py-6 text-white">
+    <main className="min-h-screen bg-spotlight px-4 py-6 pt-6 text-white">
       <div className="mx-auto flex min-h-[calc(100vh-3rem)] w-full max-w-md flex-col justify-center">
-        <section className="cinema-frame relative overflow-hidden rounded-[2rem] border border-gold/20 bg-gradient-to-b from-velvet/95 via-black to-black p-5 pt-8 shadow-glow">
+        <section className="cinema-frame relative overflow-hidden rounded-[2rem] border border-gold/20 bg-gradient-to-b from-velvet/95 via-black to-black p-5 shadow-glow">
           <div className="relative z-10">
-            <div className="mb-6 flex items-center justify-between gap-3">
-              <div className="ticket-title relative min-w-0 flex-1 rounded-full border border-dashed border-amber-500/50 bg-black/40 px-5 py-4 backdrop-blur-sm">
-                <span className="ticket-hole left-0 -translate-x-1/2" />
-                <span className="ticket-hole right-0 translate-x-1/2" />
-                <p className="text-xs uppercase tracking-[0.5em] text-amber/60">Pass-and-Play</p>
-                <h1 className="ticket-text mt-2 text-[1.7rem] font-black uppercase leading-none text-amber-500">
-                  Kollywood Imposter
-                </h1>
-              </div>
-              <div className="relative flex shrink-0 items-center justify-center px-2 py-1">
+            <div className="mb-6 flex flex-col items-center justify-center gap-4 sm:flex-row sm:items-center sm:justify-between">
+              <div className="relative flex shrink-0 items-center justify-center">
                 <img
                   src="/logo-silhouette.png"
                   alt="Kollywood Imposter logo"
-                  className="relative h-24 w-24 object-contain"
+                  className="h-20 w-20 object-contain"
                 />
+              </div>
+              <div className="ticket-title relative min-w-0 flex-1 rounded-full border border-dashed border-amber-500/50 bg-black/40 px-5 py-4 text-center backdrop-blur-sm sm:text-left">
+                <span className="ticket-hole left-0 -translate-x-1/2" />
+                <span className="ticket-hole right-0 translate-x-1/2" />
+                <p className="text-xs uppercase tracking-[0.5em] text-amber/60">Pass-and-Play</p>
+                <h1 className="ticket-text mt-2 text-3xl font-black uppercase leading-none text-amber-500 sm:text-4xl">
+                  Kollywood Imposter
+                </h1>
               </div>
             </div>
 
