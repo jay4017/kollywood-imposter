@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Courier+Prime:wght@700&display=swap");
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -51,4 +53,27 @@ select {
 
 .cinema-frame::after {
   bottom: 0;
+}
+
+.ticket-text {
+  font-family: "Courier Prime", "Courier New", monospace;
+  letter-spacing: 0.2em;
+  background: linear-gradient(to bottom, #fbbf24, #d97706);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+}
+
+.ticket-hole {
+  position: absolute;
+  top: 50%;
+  height: 1rem;
+  width: 1rem;
+  margin-top: -0.5rem;
+  border-radius: 9999px;
+  border: 1px solid rgba(245, 158, 11, 0.35);
+  background:
+    radial-gradient(circle, rgba(0, 0, 0, 0.92) 62%, rgba(18, 18, 18, 0.1) 64%);
+  box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.2);
 }
