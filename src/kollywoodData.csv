@@ -1,0 +1,443 @@
+Category,Difficulty,Name
+Movie,Easy,Ghilli
+Movie,Easy,Sivaji: The Boss
+Movie,Easy,Enthiran
+Movie,Easy,Mankatha
+Movie,Easy,Thuppakki
+Movie,Easy,Vikram (2022)
+Movie,Easy,Leo
+Movie,Easy,Jailer
+Movie,Easy,Ponniyin Selvan: I
+Movie,Easy,Amaran
+Movie,Easy,96
+Movie,Easy,Master
+Movie,Easy,Varisu
+Movie,Easy,Theri
+Movie,Easy,Mersal
+Movie,Easy,Anniyan
+Movie,Easy,Chandramukhi
+Movie,Easy,Pokkiri
+Movie,Easy,Ayan
+Movie,Easy,Singam
+Movie,Easy,Paiyaa
+Movie,Easy,Vaaranam Aayiram
+Movie,Easy,Kushi
+Movie,Easy,Alaipayuthey
+Movie,Easy,Vettaiyaadu Vilaiyaadu
+Movie,Easy,Jeans
+Movie,Easy,Kaththi
+Movie,Easy,Bigil
+Movie,Easy,Petta
+Movie,Easy,Doctor
+Movie,Easy,Don
+Movie,Easy,Love Today
+Movie,Easy,I
+Movie,Easy,Velaiilla Pattadhari
+Movie,Easy,Viswasam
+Movie,Easy,Vedalam
+Movie,Easy,Remo
+Movie,Easy,Comali
+Movie,Easy,Boss Engira Bhaskaran
+Movie,Easy,Oru Kal Oru Kannadi
+Movie,Easy,Kalakalappu
+Movie,Medium,Winner
+Movie,Medium,Friends
+Movie,Medium,New
+Movie,Medium,Arinthum Ariyamalum
+Movie,Easy,Pattas
+Movie,Easy,Siruthai
+Movie,Medium,Alex Pandian
+Movie,Easy,Veeram
+Movie,Easy,Kaala
+Movie,Easy,Vada Chennai
+Movie,Easy,Sarpatta Parambarai
+Movie,Easy,Soodhu Kavvum
+Movie,Easy,Pizza
+Movie,Easy,OK Kanmani
+Movie,Easy,Maaveeran
+Movie,Medium,Dada
+Movie,Easy,Good Bad Ugly
+Movie,Easy,Thani Oruvan
+Movie,Easy,Jigarthanda
+Movie,Easy,Madras
+Movie,Easy,Kaithi
+Movie,Medium,Rhythm
+Movie,Medium,Kandukondain Kandukondain
+Movie,Medium,7G Rainbow Colony
+Movie,Medium,Pudhupettai
+Movie,Medium,Aayirathil Oruvan
+Movie,Medium,Aaranya Kaandam
+Movie,Medium,Kaaka Muttai
+Movie,Medium,Visaranai
+Movie,Medium,Theeran Adhigaaram Ondru
+Movie,Easy,Irudhi Suttru
+Movie,Easy,Vikram Vedha
+Movie,Easy,Ratsasan
+Movie,Medium,Asuran
+Movie,Medium,Karnan
+Movie,Medium,Jai Bhim
+Movie,Medium,Gargi
+Movie,Medium,Iravin Nizhal
+Movie,Medium,Vendhu Thanindhathu Kaadu
+Movie,Medium,Viduthalai Part 1
+Movie,Medium,Chithha
+Movie,Medium,Parking
+Movie,Medium,Star
+Movie,Medium,Joe
+Movie,Medium,Lover
+Movie,Medium,Blue Star
+Movie,Easy,Meiyazhagan
+Movie,Easy,Kanguva
+Movie,Easy,Coolie
+Movie,Medium,Super Deluxe
+Movie,Hard,Pariyerum Perumal
+Movie,Hard,Kadaisi Vivasayi
+Movie,Hard,Onayum Aatukuttiyum
+Movie,Hard,Kurangu Bommai
+Movie,Hard,Lens
+Movie,Hard,Kuthiraivaal
+Movie,Hard,Nandalala
+Movie,Hard,To Let
+Movie,Hard,Baaram
+Movie,Hard,Sethum Aayiram Pon
+Movie,Hard,Nasir
+Movie,Hard,Koozhangal
+Movie,Hard,Taramani
+Artist,Easy,Rajinikanth
+Artist,Easy,Kamal Haasan
+Artist,Easy,Thalapathy Vijay
+Artist,Easy,Thala Ajith
+Artist,Easy,Suriya
+Artist,Easy,Nayanthara
+Artist,Easy,Trisha
+Artist,Easy,A.R. Rahman
+Artist,Easy,Anirudh Ravichander
+Artist,Easy,Vadivelu
+Artist,Easy,Vivekh
+Artist,Easy,Dhanush
+Artist,Easy,Vikram
+Artist,Easy,Mani Ratnam
+Artist,Easy,Shankar
+Artist,Easy,Lokesh Kanagaraj
+Artist,Easy,Nelson Dilipkumar
+Artist,Easy,Sivakarthikeyan
+Artist,Easy,Samantha
+Artist,Easy,Jyothika
+Artist,Easy,Karthi
+Artist,Easy,Jayam Ravi
+Artist,Easy,Simbu (STR)
+Artist,Easy,Harris Jayaraj
+Artist,Easy,Yuvan Shankar Raja
+Artist,Easy,Santhanam
+Artist,Easy,Yogi Babu
+Artist,Easy,Vijay Sethupathi
+Artist,Easy,Keerthy Suresh
+Artist,Easy,Rashmika Mandanna
+Artist,Easy,Tamannaah
+Artist,Easy,Kajal Aggarwal
+Artist,Easy,Shruti Haasan
+Artist,Easy,Prabhu Deva
+Artist,Medium,Raghava Lawrence
+Artist,Easy,Arjun
+Artist,Easy,Sathyaraj
+Artist,Easy,Nassar
+Artist,Easy,Prakash Raj
+Artist,Medium,Goundamani
+Artist,Medium,Senthil
+Artist,Medium,Kovai Sarala
+Artist,Medium,Manorama
+Artist,Easy,Vetrimaaran
+Artist,Easy,Atlee
+Artist,Easy,Pa Ranjith
+Artist,Easy,Karthik Subbaraj
+Artist,Medium,Sudha Kongara
+Artist,Medium,H. Vinoth
+Artist,Easy,Mari Selvaraj
+Artist,Easy,S.J. Suryah
+Artist,Easy,Sai Pallavi
+Artist,Medium,Ashok Selvan
+Artist,Medium,Manikandan
+Artist,Easy,G.V. Prakash
+Artist,Easy,Santhosh Narayanan
+Artist,Medium,D. Imman
+Artist,Medium,Redin Kingsley
+Artist,Medium,Fahadh Faasil
+Artist,Medium,Arvind Swamy
+Artist,Medium,Madhavan
+Artist,Medium,Siddharth
+Artist,Easy,Jiiva
+Artist,Easy,Vishal
+Artist,Easy,Arya
+Artist,Medium,Raashii Khanna
+Artist,Medium,Priyanka Mohan
+Artist,Medium,Anupama Parameswaran
+Artist,Medium,Dhibu Ninan Thomas
+Artist,Medium,Sam C.S.
+Artist,Medium,Sean Roldan
+Artist,Easy,Pradeep Ranganathan
+Artist,Medium,Vignesh Shivan
+Artist,Medium,Magizh Thirumeni
+Artist,Easy,Venkat Prabhu
+Artist,Easy,Gautham Vasudev Menon
+Artist,Medium,Selvaraghavan
+Artist,Medium,Thiagarajan Kumararaja
+Artist,Medium,Nithilan Saminathan
+Artist,Medium,K.S. Ravikumar
+Artist,Medium,P. Vasu
+Artist,Medium,Dharani
+Artist,Medium,Lingusamy
+Artist,Medium,Hari
+Artist,Hard,P.C. Sreeram
+Artist,Hard,Ravi Varman
+Artist,Hard,Thotta Tharani
+Artist,Hard,Santosh Sivan
+Artist,Hard,Nirav Shah
+Artist,Hard,Anthony
+Artist,Hard,Ruben
+Artist,Hard,Madonne Ashwin
+Artist,Hard,C. Prem Kumar
+Artist,Medium,Ram (Director)
+Artist,Medium,Bala (Director)
+Artist,Hard,Cheran
+Artist,Hard,Ameer
+Artist,Hard,Sasi
+Movie,Easy,Nanban
+Movie,Easy,Velayudham
+Movie,Easy,Bairavaa
+Movie,Easy,Singam 2
+Movie,Easy,Singam 3
+Movie,Medium,Sivakasi
+Movie,Easy,Thirupaachi
+Movie,Medium,Kadhal Kondain
+Movie,Medium,Pithamagan
+Movie,Medium,Mounam Pesiyadhe
+Movie,Easy,Manmadhan
+Movie,Easy,Vallavan
+Movie,Hard,Saravana
+Movie,Hard,Ji
+Movie,Hard,Aasal
+Movie,Easy,Billa 2
+Movie,Hard,Eesan
+Movie,Easy,Ko
+Movie,Easy,Kalakalappu 2
+Movie,Easy,Sandakozhi
+Movie,Medium,Dhool
+Movie,Medium,Saamy
+Movie,Easy,Kakki Sattai
+Movie,Medium,Rajinimurugan
+Movie,Easy,Varuthapadatha Valibar Sangam
+Movie,Easy,Kanchana
+Movie,Easy,Aranmanai
+Movie,Easy,Santhosh Subramaniam
+Movie,Medium,Jayam
+Movie,Medium,M. Kumaran S/O Mahalakshmi
+Movie,Easy,Something Something Unakkum Enakkum
+Movie,Easy,Vasool Raja MBBS
+Movie,Medium,Iraivi
+Movie,Medium,Mandela
+Movie,Easy,Soorarai Pottru
+Movie,Medium,Aruvi
+Movie,Medium,Joker
+Movie,Medium,Maamannan
+Movie,Medium,Good Night
+Movie,Medium,Irugapatru
+Movie,Easy,Ayalaan
+Movie,Medium,Mark Antony
+Movie,Medium,Por Thozhil
+Movie,Medium,Natchathiram Nagargiradhu
+Movie,Medium,Gatta Kusthi
+Movie,Easy,Jigarthanda DoubleX
+Movie,Medium,Captain Miller
+Movie,Medium,Lal Salaam
+Movie,Medium,Viduthalai Part 2
+Movie,Easy,Dragon
+Movie,Easy,Thug Life
+Movie,Hard,Onaayum Aatukuttiyum
+Movie,Hard,Rocky
+Movie,Hard,Saani Kaayidham
+Movie,Hard,Vazhakku Enn 18/9
+Artist,Easy,HipHop Tamizha
+Artist,Easy,Malavika Mohanan
+Artist,Easy,Andrea Jeremiah
+Artist,Easy,Aditi Rao Hydari
+Artist,Easy,Arjun Das
+Artist,Easy,Kalidas Jayaram
+Artist,Easy,Harish Kalyan
+Artist,Easy,Kavin
+Artist,Easy,Soori
+Artist,Medium,Karunakaran
+Artist,Easy,R.J. Balaji
+Artist,Easy,Mirchi Shiva
+Artist,Medium,Vimal
+Artist,Easy,Siruthai Siva
+Artist,Easy,A.R. Murugadoss
+Artist,Easy,Mysskin
+Artist,Medium,Pushkar-Gayatri
+Artist,Medium,Ghibran
+Artist,Medium,Govind Vasantha
+Artist,Medium,Leon James
+Artist,Medium,Madhan Karky
+Artist,Medium,Arunraja Kamaraj
+Artist,Medium,Pa. Vijay
+Artist,Medium,Na. Muthukumar
+Artist,Hard,Philomin Raj
+Artist,Hard,Anbariv (Stunts)
+Artist,Hard,Dhilip Subbarayan
+Artist,Hard,Stunt Silva
+Movie,Easy,Sarkar
+Movie,Easy,Beast
+Movie,Easy,GOAT
+Movie,Medium,Etharkkum Thunindhavan
+Movie,Easy,Thunivu
+Movie,Easy,Valimai
+Movie,Easy,Vidaamuyarchi
+Movie,Easy,Vettaiyan
+Movie,Easy,Raayan
+Movie,Easy,Thangalaan
+Movie,Easy,Maharaja
+Movie,Medium,Garudan
+Movie,Easy,Aranmanai 4
+Movie,Medium,Siren
+Movie,Medium,Sardar
+Movie,Easy,Lubber Pandhu
+Movie,Easy,Vaazhai
+Movie,Hard,Kottukkaali
+Movie,Hard,Jama
+Movie,Hard,Kozhi Pannai Chelladurai
+Movie,Hard,Hitler
+Movie,Hard,Petta Rap
+Movie,Hard,Zebra
+Movie,Hard,Brother
+Movie,Medium,Bloody Beggar
+Movie,Hard,Mechanic Rocky
+Movie,Hard,Sila Samayangalil
+Movie,Hard,Appu
+Movie,Medium,Thenali
+Movie,Hard,Dumm Dumm Dumm
+Movie,Hard,Aanandham
+Movie,Hard,Shahjahan
+Movie,Easy,Pammal K. Sambandam
+Movie,Medium,Gemini
+Movie,Medium,Run
+Movie,Easy,Myna
+Movie,Easy,Kumki
+Movie,Medium,Kayal
+Movie,Medium,Goli Soda
+Movie,Medium,Sathuranga Vettai
+Movie,Medium,Thegidi
+Movie,Easy,Indru Netru Naalai
+Movie,Medium,Pisaasu
+Movie,Medium,Psycho
+Movie,Hard,Thalaimuraigal
+Movie,Hard,Kattradhu Thamizh
+Movie,Hard,Thangam
+Movie,Hard,Anjathe
+Movie,Hard,Yuddham Sei
+Movie,Medium,Mugamoodi
+Movie,Medium,Paradesi
+Movie,Hard,Tharai Thappattai
+Movie,Hard,Naachiyaar
+Movie,Medium,Eeswaran
+Movie,Medium,Bhoomi
+Movie,Easy,Jagame Thandhiram
+Movie,Medium,Navarasa
+Movie,Medium,Sandakozhi 2
+Movie,Medium,Saamy Square
+Movie,Medium,Poojai
+Movie,Hard,Amudhavanan
+Movie,Medium,Pandiya Naadu
+Movie,Medium,Naan Mahaan Alla
+Artist,Easy,Aishwarya Lekshmi
+Artist,Easy,Sobhita Dhulipala
+Artist,Medium,Dushara Vijayan
+Artist,Medium,Ritika Singh
+Artist,Easy,Varalaxmi Sarabhai
+Artist,Medium,Regina Cassandra
+Artist,Medium,Nivetha Pethuraj
+Artist,Medium,Kaali Venkat
+Artist,Hard,Bala Saravanan
+Artist,Medium,Sathish
+Artist,Medium,Jagan
+Artist,Easy,Imman Annachi
+Artist,Easy,Bobby Simha
+Artist,Easy,Arun Vijay
+Artist,Easy,Sundar C.
+Artist,Easy,Sasikumar
+Artist,Easy,Samuthirakani
+Artist,Hard,Vijayalakshmi
+Artist,Hard,Sunainaa
+Artist,Medium,Bindu Madhavi
+Artist,Medium,Janani
+Artist,Easy,Iyshwarya Rajesh
+Artist,Easy,Saranya Ponvannan
+Artist,Easy,Radhika Sarathkumar
+Artist,Hard,Saritha
+Artist,Medium,Revathi
+Artist,Medium,Suhasini
+Artist,Easy,Laila
+Artist,Easy,Sneha
+Artist,Easy,Simran
+Artist,Easy,Meena
+Artist,Easy,Shalini
+Movie,Medium,Madurey
+Movie,Medium,Thiruvilaiyaadal Aarambam
+Movie,Easy,Polladhavan
+Movie,Easy,Aadukalam
+Movie,Medium,Maattrraan
+Movie,Easy,Anjaan
+Movie,Medium,Massu Engira Masilamani
+Movie,Easy,24
+Movie,Hard,Si3
+Movie,Medium,Thaanaa Serndha Koottam
+Movie,Medium,NGK
+Movie,Medium,Kaappaan
+Movie,Medium,Vettai
+Movie,Medium,Aadhalal Kadhal Seiveer
+Movie,Medium,Haridas
+Movie,Medium,Cuckoo
+Movie,Easy,Raja Rani
+Movie,Easy,Mundasupatti
+Movie,Medium,The Villa
+Movie,Medium,Kadhalum Kadandhu Pogum
+Movie,Medium,Sethupathi
+Movie,Medium,Dharmadurai
+Movie,Medium,Irumbuthirai
+Movie,Medium,Kolamaavu Kokila
+Artist,Medium,Pasupathy
+Artist,Hard,Kalabhavan Mani
+Artist,Medium,Rajkiran
+Artist,Hard,Sathyan
+Artist,Medium,Thambi Ramaiah
+Artist,Medium,Singampuli
+Artist,Medium,Munishkanth
+Artist,Easy,Asin
+Artist,Easy,Genelia
+Artist,Easy,Hansika Motwani
+Artist,Easy,Anushka Shetty
+Artist,Hard,Nandita Swetha
+Artist,Hard,Sshivada
+Artist,Medium,Janani Iyer
+Artist,Medium,Mahima Nambiar
+Movie,Medium,Kaakha Kaakha
+Movie,Medium,Mayakkam Enna
+Movie,Easy,Vivegam
+Movie,Easy,Ponniyin Selvan: II
+Movie,Medium,Love Insurance Corporation
+Movie,Easy,Annaatthe
+Movie,Hard,Sometimes
+Movie,Easy,Sura
+Movie,Medium,Villu
+Movie,Medium,Azhagiya Tamil Magan
+Movie,Medium,Kuruvi
+Movie,Hard,Aegan
+Movie,Hard,Asal
+Movie,Medium,Lingaa
+Movie,Easy,Puli
+Movie,Hard,Villain
+Movie,Hard,Attagasam
+Movie,Hard,Varalaru
+Artist,Hard,Manobala
+Artist,Hard,Mayilsamy
+Artist,Hard,Charlie
+Artist,Hard,M.S. Bhaskar
+Artist,Hard,Delhi Ganesh
